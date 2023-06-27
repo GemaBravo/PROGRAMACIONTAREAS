@@ -6,6 +6,7 @@ _tam = int(input("Ingrese el tamaño de la Lista: "))
 # llamando métodos de la otra clase 
 c = Metodos()
 c.ingreso(Listas, _tam)
+print("BIENVENIDO AL PROGRAMA DE LOS SIGUIENTES METODS DE PYTHON")
 
 while True:
     print("==== Menú de Opciones ====")
